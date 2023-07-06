@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -26,6 +27,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+@font-face {
+  font-family: "Light";   /*Can be any text*/
+  src: local("VarelaRound-Regular"),
+    url("./fonts/VarelaRound-Regular.ttf") format("truetype");
 }
 
 @keyframes App-logo-spin {

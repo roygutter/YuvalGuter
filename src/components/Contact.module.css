@@ -1,0 +1,26 @@
+.cardStyle{
+    background-color: aquamarine;
+    border-radius: 20%;
+    display: flex;
+    flex-direction: column;
+    font-family: "Light"
+}
+
+.labelStyle{
+    padding-left: 5%;
+
+}
+
+.inputStyle{
+    text-align: right;
+}
+
+.midDiv{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: "Light"
+}

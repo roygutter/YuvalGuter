@@ -1,0 +1,25 @@
+
+.topPart {
+    display:flex;
+    align-items: center;
+    background-color: #AACB73;
+    justify-content:center;
+    
+  }
+p{
+  color: white;
+  font-weight: bold;
+  font-family: "Light";
+  font-size:2.6rem;
+  padding-right: 5%;
+}
+
+  img{
+ 
+    width: 10%;
+  }
+  
+
+  
+
+  
